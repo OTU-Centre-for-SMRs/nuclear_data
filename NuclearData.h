@@ -180,8 +180,6 @@ private:
 // Implementation of the Nuclide class.
 //---------------------------------------------------------------------------------------------------
 #ifdef NUCLEAR_DATA_IMPLEMENTATION
-#include "Nuclide.h"
-
 #include <regex>
 #include <map>
 #include <unordered_map>
